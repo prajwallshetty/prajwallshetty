@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prajwallshetty) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwalshettyyy) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pajjus) 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=safak&label=Profile%20views&color=0e75b6&style=flat" alt="prajwallshetty" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwallshetty&label=Profile%20views&color=0e75b6&style=flat" alt="prajwallshetty" /> </p>
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
