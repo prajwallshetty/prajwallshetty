@@ -46,6 +46,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<img src="https://raw.githubusercontent.com/prajwallshetty/prajwallshetty/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=prajwallshetty&limit=5&theme=dark&combine_all_yearly_contributions=true)
