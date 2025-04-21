@@ -44,9 +44,13 @@
 ![](https://github-profile-trophy.vercel.app/?username=prajwallshetty&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
+
+
 ## 🚀 Featured Projects
 - 🔗 [Aakar-website](https://github.com/prajwallshetty/Aakar)
-- 🔗 [Laravel Canteen Management System](https://github.com/yourusername/canteen-laravel)
+- 🔗 [ZUZO-online sneaker store](https://github.com/prajwallshetty/zuzo)
+
+
 
 
 ### ✍️ Random Dev Quote
