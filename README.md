@@ -1,11 +1,12 @@
 # 💫 About Me:
-🚀 Web Developer | AI/ML Enthusiast<br>👨‍💻 3rd-year CSE student at AJIET<br>💡 Passionate about building modern web applications & exploring AI/ML<br>🔧 Specializing in WordPress, Shopify, and full-stack development<br>🤖 Learning and implementing AI/ML models in real-world applications
+| AI/ML Enthusiast<br>👨‍💻 3rd-year CSE student at AJIET<br>💡 Passionate about building modern web applications & exploring AI/ML<br>🔧 Specializing in WordPress, Shopify, and full-stack development<br>🤖 Learning and implementing AI/ML models in real-world applications
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prajwallshetty) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwalshettyyy) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pajjus) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chethuuuu._) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gamingboot) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwallshetty&label=Profile%20views&color=0e75b6&style=flat" alt="prajwallshetty" /> </p>
+
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -35,19 +36,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=prajwallshetty&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwallshetty&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prajwallshetty&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
-
-
-## 🚀 Featured Projects
-- 🔗 [Aakar-website](https://github.com/prajwallshetty/Aakar)
-- 🔗 [ZUZO-online sneaker store](https://github.com/prajwallshetty/zuzo)
 
 
 
